@@ -1,2 +1,7 @@
-uploads
-index_data
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.vscode/
+uploads/
+index_data/
